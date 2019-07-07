@@ -1,0 +1,23 @@
+html,body{
+	background-color: #b1cbbb;
+}
+p{
+	text-align: center;
+}
+img{
+	width: 250px;
+	height: 250px;
+}
+h3{
+	padding-top: 10px;
+}
+
+.col{
+	background-color: #eaece5;
+	padding: 150px;
+}
+
+.row-2{
+	background-color: #fff;	
+	padding: 150px;	
+}
